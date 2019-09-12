@@ -1,8 +1,9 @@
-<html>
-  <head>
-    <title>St. Edward Parish BSA</title>
-  </head>
-  <body>
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
   <h1>St. Edward Parish BSA</h1>
   <p>The St. Edward Parish BSA program is a <a href="https://scouting.org">Boy Scouts of America</a> program chartered by <a href="http://stedward.church">St. Edward Roman Catholic Parish</a> in Jeffersontown, KY. We are members of the Cherokee District in the <a href="http://lhcbsa.org">Lincoln Heritage Council</a>.</p>
 
@@ -13,5 +14,3 @@
   </ul>
 
   <p>For more information on our programs or how to join, please contact our scout leaders via the Facebook pages linked above.</p>
-  </body>
-</html>
